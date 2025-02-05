@@ -1,0 +1,3 @@
+[32mINFO    [0m Testlogin:test_adminlogin.py:37 opening Automation store url
+[32mINFO    [0m Testlogin:test_adminlogin.py:41 Entering Username
+[32mINFO    [0m Testlogin:test_adminlogin.py:43 Entering Password

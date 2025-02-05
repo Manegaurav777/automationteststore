@@ -32,3 +32,11 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
+
+
+def pytest_metadata(metadata):
+    metadata["Project Name"] = "Automation Store"
+    metadata["Environment"] = "QA Environment"
+    metadata["Module"] = "User Profile"
+    metadata["Tester"] = "Gaurav"
+    metadata.pop("Plugins", None)

@@ -14,3 +14,75 @@
 2025-01-31 12:38:58,896 - INFO - Testlogin - test_validadminlogin - opening Automation store url
 2025-01-31 12:39:01,544 - INFO - Testlogin - test_validadminlogin - Entering Username
 2025-01-31 12:39:01,799 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 12:42:14,990 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 12:42:23,094 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 12:42:29,520 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 12:42:29,886 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 12:46:30,320 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 12:46:38,028 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 12:46:40,282 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 12:46:40,599 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 13:31:36,483 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 13:31:42,408 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 13:31:44,789 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 13:31:45,098 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 13:38:17,766 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 13:38:17,766 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 13:38:20,452 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 13:38:20,785 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 13:39:03,832 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 13:39:03,855 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 13:39:06,704 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 13:39:06,852 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 13:48:48,925 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 13:48:48,948 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 13:48:51,932 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 13:48:52,098 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-01-31 13:52:52,159 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-01-31 13:52:52,173 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-01-31 13:52:55,917 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-01-31 13:52:56,237 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-03 13:58:31,598 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-03 13:58:31,598 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-03 13:58:38,124 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-03 13:58:38,124 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-03 13:58:40,755 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 13:58:40,755 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 13:58:40,899 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-03 13:58:40,899 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-03 13:58:56,431 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-03 13:58:56,431 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-03 13:58:58,878 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 13:58:58,878 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 13:59:34,731 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-03 13:59:41,970 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-03 13:59:45,114 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 13:59:45,329 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-03 14:02:27,557 - INFO - Testlogin - test_verifytitle - opening Automation store url
+rl
+2025-02-03 14:02:32,658 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 14:02:32,866 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-03 14:40:06,853 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-03 14:40:14,831 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-03 14:40:17,515 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-03 14:40:17,704 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-05 13:14:30,475 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-05 13:14:30,958 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-05 13:14:36,416 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-05 13:14:36,806 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-05 17:40:46,542 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-05 17:40:49,892 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-05 17:40:53,852 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-05 17:40:54,035 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-05 18:00:30,859 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-05 18:00:34,738 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-05 18:00:39,966 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-05 18:00:40,219 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-05 18:15:49,578 - INFO - Testlogin - test_verifytitle - opening Automation store url
+rl
+2025-02-05 18:16:05,742 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-05 18:16:05,923 - INFO - Testlogin - test_validadminlogin - Entering Password
+2025-02-05 18:17:22,340 - INFO - Testlogin - test_verifytitle - opening Automation store url
+2025-02-05 18:17:22,353 - INFO - Testlogin - test_validadminlogin - opening Automation store url
+2025-02-05 18:17:30,437 - INFO - Testlogin - test_validadminlogin - Entering Username
+2025-02-05 18:17:30,834 - INFO - Testlogin - test_validadminlogin - Entering Password
