@@ -18,4 +18,4 @@ class Login_adminPage:
         self.driver.find_element(By.XPATH, self.textbox_passwords_id).send_keys(password)
 
     def click_login(self):
-        self.driver.find_element(By.XPATH, self.Login_btn).click()
+        self.driver.find_element(By.XPATH, self.Login_btn).click() 
