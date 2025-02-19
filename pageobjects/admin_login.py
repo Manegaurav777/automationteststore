@@ -19,3 +19,5 @@ class Login_adminPage:
 
     def click_login(self):
         self.driver.find_element(By.XPATH, self.Login_btn).click() 
+
+
